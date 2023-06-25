@@ -30,6 +30,6 @@
     "express-rate-limit": "^6.7.0",
     "helmet": "^6.1.5",
     "octokit": "^2.0.14",
-    "semver": "^7.5.0"
+    "semver": "^7.5.2"
   }
 }
